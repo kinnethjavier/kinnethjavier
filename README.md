@@ -4,15 +4,17 @@
 
 <h3 align="center">A full-stack developer from the Philippines</h3>
 
+<br/>
+
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a fundraising website**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **AI LLMs, Postgre SQL, and Drizzle ORM**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **web development, AI or anything [here](https://github.com/kinnethjavier/kinnethjavier/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact that **the term “bug” came from a real insect**
 
  </div>
  
