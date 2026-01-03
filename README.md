@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A full-stack developer from the Philippines</h3>
-#nothing
+
 <br/>
 
 <div align="center">
