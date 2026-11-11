@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a fundraising application**
  
- 🌱 I’m currently learning **AI LLMs, Postgre SQL, and Drizzle ORM**
+ 🌱 I’m currently learning **mobile application development**
 
 💬 Ask me about **web development, AI or anything [here](https://github.com/kinnethjavier/kinnethjavier/issues)**
 
